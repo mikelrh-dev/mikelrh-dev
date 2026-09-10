@@ -1,6 +1,6 @@
 # Mikel Romero — Junior Backend Developer
 
-> Barakaldo, Spain · Open to Junior Backend / Data roles
+> Barakaldo, Spain
 
 For me, technology is not just a tool — it's an endless rabbit hole. I pull one thread, new branches appear, and sooner or later they connect. That's what keeps me building.
 
