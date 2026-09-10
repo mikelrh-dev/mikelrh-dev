@@ -29,6 +29,5 @@ I'm a DAM graduate (Tartanga, 2024–2026), now specializing in AI & Big Data. C
 ## Contact
 
 - Email: mikelromerohomobono@gmail.com
-- Portfolio: https://mikelrh-dev.github.io
 - GitHub: https://github.com/mikelrh-dev
 - Location: Barakaldo, Spain · Spanish (native) / English (B2) / Euskera (B2) · Available for hire
