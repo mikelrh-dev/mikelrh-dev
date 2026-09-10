@@ -1,12 +1,12 @@
-# Mikel Romero — Junior Backend Developer
+# Mikel Romero Homobono — Software Developer · AI/ML & Data Science
 
 > Barakaldo, Spain
 
 For me, technology is not just a tool — it's an endless rabbit hole. I pull one thread, new branches appear, and sooner or later they connect. That's what keeps me building.
 
-I learned to make decisions and deliver value leading 30–100 person teams in retail for 9 years. I bring that standard to software: if it doesn't solve a real problem, it doesn't ship.
+I learned to make decisions and deliver value leading teams of up to 100 people in retail (Mercadona, BM). As a software developer at CEESA, I brought that standard to a real ERP (Vespera Solutions, Velneo): real-time stock, tax and traceability, plus AI for inventory anomaly detection, order forecasting and KPI analysis, a Telegram bot (real-time business alerts + RAG assistant over the ERP with Python + FAISS), and agent-automated documentation.
 
-I'm finishing my DAM degree (Tartanga, 2024–2026). I build with **Python / FastAPI, Java / Spring Boot / Hibernate, MySQL / PostgreSQL / MongoDB, Docker, Git, Linux and pytest**, with SDD / TDD discipline. I explore with **AI agents, RAG / LLMs and data science**, but I ship on engineering fundamentals.
+I'm a DAM graduate (Tartanga, 2024–2026), now specializing in AI & Big Data. Certified in the Google × Kaggle 5-Day AI Agents intensive (prototype to production, multi-agent, ADK, evaluation, security) and the Anthropic Claude API + Claude Code 101 tracks. I build with **Java, Python, Velneo, PHP · PostgreSQL, MySQL, MongoDB · scikit-learn, pandas, NumPy, XGBoost · PyTorch, TensorFlow/Keras, OpenCV · RAG, local LLMs, MCP · Git, Docker, Linux**, with SDD/TDD discipline: I explore with AI, agents and data science, but I ship on engineering fundamentals.
 
 ## Tech Stack
 
@@ -22,12 +22,13 @@ I'm finishing my DAM degree (Tartanga, 2024–2026). I build with **Python / Fas
 
 ## Featured Projects
 
-- **[liveInterviewRAG](https://github.com/mikelrh-dev/liveInterviewRAG)** — Voice-based digital twin that lets recruiters pre-interview me. STT → LLM (RAG over my profile) → TTS.
-- **[fraud-detector](https://github.com/mikelrh-dev/fraud-detector)** — Fraud detection with a 3-layer architecture (rules + ML + LLM), FastAPI async backend, PostgreSQL.
-- **[Proyecto-Velneo](https://github.com/mikelrh-dev/Proyecto-Velneo)** — ERP invoicing project documentation (Velneo V37, built during my internship).
+- **[liveInterviewRAG](https://github.com/mikelrh-dev/liveInterviewRAG)** — AI voice interviewer: digital twin answering with my real profile. STT → RAG → LLM → TTS pipeline with phrase-by-phrase SSE streaming and a reactive 3D avatar.
+- **[fraud-detector](https://github.com/mikelrh-dev/fraud-detector)** — Hybrid fraud detection in 3 layers: deterministic rules + XGBoost + context. SHAP explains every score; a local LLM drafts the reports without deciding.
+- **[Proyecto-Velneo](https://github.com/mikelrh-dev/Proyecto-Velneo)** — Full ERP build (stock, tax, real-time traceability) with AI integrations, developed at CEESA.
 
 ## Contact
 
+- Email: mikelromerohomobono@gmail.com
 - Portfolio: https://mikelrh-dev.github.io
 - GitHub: https://github.com/mikelrh-dev
-- Location: Barakaldo, Spain · Spanish (native) / English (B2) · Available for hire
+- Location: Barakaldo, Spain · Spanish (native) / English (B2) / Euskera (B2) · Available for hire
