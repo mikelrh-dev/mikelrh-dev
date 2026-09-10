@@ -4,7 +4,7 @@
 
 For me, technology is not just a tool — it's an endless rabbit hole. I pull one thread, new branches appear, and sooner or later they connect. That's what keeps me building.
 
-I learned to make decisions and deliver value leading teams of up to 100 people in retail (Mercadona, BM). As a software developer at CEESA, I brought that standard to a real ERP (Vespera Solutions, Velneo): real-time stock, tax and traceability, plus AI for inventory anomaly detection, order forecasting and KPI analysis, a Telegram bot (real-time business alerts + RAG assistant over the ERP with Python + FAISS), and agent-automated documentation.
+I learned to make decisions and deliver value leading teams in retail (Mercadona, BM). As a software developer at CEESA, I brought that standard to a real ERP (Vespera Solutions, Velneo): real-time stock, tax and traceability, plus AI for inventory anomaly detection, order forecasting and KPI analysis, a Telegram bot (real-time business alerts + RAG assistant over the ERP with Python + FAISS), and agent-automated documentation.
 
 I'm a DAM graduate (Tartanga, 2024–2026), now specializing in AI & Big Data. Certified in the Google × Kaggle 5-Day AI Agents intensive (prototype to production, multi-agent, ADK, evaluation, security) and the Anthropic Claude API + Claude Code 101 tracks. I build with **Java, Python, Velneo, PHP · PostgreSQL, MySQL, MongoDB · scikit-learn, pandas, NumPy, XGBoost · PyTorch, TensorFlow/Keras, OpenCV · RAG, local LLMs, MCP · Git, Docker, Linux**, with SDD/TDD discipline: I explore with AI, agents and data science, but I ship on engineering fundamentals.
 
