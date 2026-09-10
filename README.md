@@ -24,7 +24,6 @@ I'm finishing my DAM degree (Tartanga, 2024–2026). I build with **Python / Fas
 
 - **[liveInterviewRAG](https://github.com/mikelrh-dev/liveInterviewRAG)** — Voice-based digital twin that lets recruiters pre-interview me. STT → LLM (RAG over my profile) → TTS.
 - **[fraud-detector](https://github.com/mikelrh-dev/fraud-detector)** — Fraud detection with a 3-layer architecture (rules + ML + LLM), FastAPI async backend, PostgreSQL.
-- **[portfolio-2026](https://github.com/mikelrh-dev/portfolio-2026)** — Personal portfolio (React + TS + Vite + Tailwind). Live at https://mikelrh-dev.github.io
 - **[Proyecto-Velneo](https://github.com/mikelrh-dev/Proyecto-Velneo)** — ERP invoicing project documentation (Velneo V37, built during my internship).
 
 ## Contact
