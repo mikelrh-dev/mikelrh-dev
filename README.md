@@ -24,7 +24,7 @@ I'm a DAM graduate (Tartanga, 2024–2026), now specializing in AI & Big Data. C
 
 - **[liveInterviewRAG](https://github.com/mikelrh-dev/liveInterviewRAG)** — AI voice interviewer: digital twin answering with my real profile. STT → RAG → LLM → TTS pipeline with phrase-by-phrase SSE streaming and a reactive 3D avatar.
 - **[fraud-detector](https://github.com/mikelrh-dev/fraud-detector)** — Hybrid fraud detection in 3 layers: deterministic rules + XGBoost + context. SHAP explains every score; a local LLM drafts the reports without deciding.
-- **[Proyecto-Velneo](https://github.com/mikelrh-dev/Proyecto-Velneo)** — Full ERP build (stock, tax, real-time traceability) with AI integrations, developed at CEESA.
+- **[Proyecto-Velneo](https://github.com/mikelrh-dev/Reto_Practicas)** — Full ERP build (stock, tax, real-time traceability) with AI integrations, developed at CEESA.
 
 ## Contact
 
