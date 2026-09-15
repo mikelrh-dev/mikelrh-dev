@@ -35,7 +35,6 @@
 
 > Technology is an endless rabbit hole: pull one thread and new branches appear — sooner or later they connect.
 
-- 💼 **Software Developer at CEESA** (ex retail team lead — decisions & value under pressure): building real ERP with Velneo (Vespera Solutions) — real-time stock, tax and traceability, AI for inventory anomaly detection, order forecasting, KPI analysis, Telegram bot (real-time business alerts + RAG assistant over the ERP with Python + FAISS), agent-automated documentation.
 - 🎓 **DAM graduate** (Tartanga, 2024–2026), specializing in AI & Big Data. Certified: Google x Kaggle 5-Day AI Agents intensive (prototype to production, multi-agent, ADK, evaluation, security) + Anthropic Claude API + Claude Code 101.
 - 🤖 Obsessed with **AI, RAG systems, and local LLMs** — solid backend engineering meets production-ready intelligent systems.
 - 🐍 **Python enthusiast**: FastAPI, scikit-learn, PyTorch, XGBoost — building ML pipelines and APIs that ship.
