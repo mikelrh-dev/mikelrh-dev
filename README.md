@@ -133,7 +133,7 @@
 <a href="https://github.com/mikelrh-dev">GitHub</a> · 
 Barakaldo, Spain
 
-Spanish native · English B2 · Euskera B2 · Available for hire
+Spanish native · English B2 · Euskera B1 · Available for hire
 
 </div>
 
