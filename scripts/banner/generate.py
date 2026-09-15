@@ -47,16 +47,16 @@ ROWS = [
 
 THEMES = {
     "dark": {
-        "bg": "#0A101F",
-        "panel": "#0D1628",
-        "panel2": "#101B30",
-        "line": "#25344C",
-        "muted": "#8291A8",
-        "text": "#DDE7F5",
-        "portrait": "#10B981",
-        "chrome": "#22D3EE",
+        "bg": "#05080D",
+        "panel": "#090E17",
+        "panel2": "#0C1320",
+        "line": "#1B2433",
+        "muted": "#7C8A9E",
+        "text": "#E4EAF3",
+        "portrait": "#34D399",
+        "chrome": "#93A1B5",
         "accent": "#10B981",
-        "shadow": "#02050B",
+        "shadow": "#000000",
     },
     "light": {
         "bg": "#F6F8FA",
