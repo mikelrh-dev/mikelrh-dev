@@ -1,0 +1,17 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "liveInterviewRAG",
+      "description": "RAG-powered live interview assistant that answers questions in real time from your documents."
+    },
+    {
+      "repo": "fraud-detector",
+      "description": "ML-based fraud detection system using XGBoost and scikit-learn for transaction classification."
+    },
+    {
+      "repo": "Reto_Practicas",
+      "description": "Velneo project for academic internship challenges — ERP module development and integration."
+    }
+  ]
+}
